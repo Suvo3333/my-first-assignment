@@ -17,7 +17,7 @@
 /* header */
 .header{
     background-color:#C6E4D6 ;
-    padding-left: ;
+
     border-radius: 4px;
 }
 /* body styles */
@@ -145,9 +145,58 @@ padding-bottom: 30px;
     border-color: aliceblue;
     box-shadow: 1px 6px 50px 1px;
     text-align: initial;
-    background-image ;
-}
-
-.ph{
     
 }
+
+
+
+.rc{
+    padding-top: 60px;
+    font-weight: bold;
+}
+
+.rcb{
+    
+    padding-top: 30px;
+    text-align: justify;
+}
+.ph{
+    text-align: justify;
+    display: flex;
+    border-color: aliceblue;
+    box-shadow: 0px 6px 50px 0px;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.cc{
+    background-color:#006A50 ;
+    font: bold;
+    color: #FFFFFF;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.phh{
+    display: flex;
+    border-color: aliceblue;
+    box-shadow: 0px 6px 50px 0px;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.pp{
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
